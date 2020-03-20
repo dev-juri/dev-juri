@@ -1,0 +1,5 @@
+﻿Name: Ojuri Oluwafemi Emmanuel
+Email: ojurifemi132@gmail.com
+Slack Username: dev-juri
+Track: Mobile
+Course: Kotlin
