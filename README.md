@@ -9,6 +9,7 @@ I'm Oluwafemi! A budding and enthusiastic Software developer passionate about gr
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
 **Connect with me via any of**
-- <a href="https://twitter.com/horluphemo/">Twitter</a>
-- <a href="https://www.linkedin.com/mwlite/in/oluwafemi-ojuri-b3a427198">LinkedIn</a>
-- <a href="mailto:ojurifemi132@gmail.com">Send a mail</a>
+<br>
+<a href="https://twitter.com/horluphemo/"><code><img height=50 src="https://www.vectorlogo.zone/util/preview.html?image=/logos/twitter/twitter-ar21.svg"/></code></a>
+<a href="https://www.linkedin.com/mwlite/in/oluwafemi-ojuri-b3a427198"><code><img height=50 src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linkedin/linkedin-ar21.svg"/></code></a>
+<a href="mailto:ojurifemi132@gmail.com"><code><img height=50 src="https://www.vectorlogo.zone/util/preview.html?image=/logos/gmail/gmail-ar21.svg"/></code></a>
