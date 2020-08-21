@@ -10,6 +10,8 @@ I'm Oluwafemi! A budding and enthusiastic Software developer passionate about gr
 
 **Connect with me via any of**
 <br>
-<a href="https://twitter.com/horluphemo/"><code><img height=50 src="https://www.vectorlogo.zone/util/preview.html?image=/logos/twitter/twitter-ar21.svg"/></code></a>
-<a href="https://www.linkedin.com/mwlite/in/oluwafemi-ojuri-b3a427198"><code><img height=50 src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linkedin/linkedin-ar21.svg"/></code></a>
-<a href="mailto:ojurifemi132@gmail.com"><code><img height=50 src="https://www.vectorlogo.zone/util/preview.html?image=/logos/gmail/gmail-ar21.svg"/></code></a>
+<code><a href="https://twitter.com/horluphemo/"><img height=50 src="https://www.vectorlogo.zone/util/preview.html?image=/logos/twitter/twitter-ar21.svg"/></a></code>
+
+<code><a href="https://www.linkedin.com/mwlite/in/oluwafemi-ojuri-b3a427198"><img height=50 src="https://www.vectorlogo.zone/util/preview.html?image=/logos/linkedin/linkedin-ar21.svg"/></a></code>
+
+<code><a href="mailto:ojurifemi132@gmail.com"><img height=50 src="https://www.vectorlogo.zone/util/preview.html?image=/logos/gmail/gmail-ar21.svg"/></a></code>
