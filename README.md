@@ -1,12 +1,13 @@
-### Hello <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
+<h1 align='center'> Hello <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
 
-I'm a budding and enthusiastic Software developer focused on Mobile Development.
+<p align='center'>I'm a budding and enthusiastic Software developer focused on Mobile Development.</p>
 
+<p align='center'>
 **I develop with :**
-<br>
 <code><img height=50 src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"/></code>
 <code><img height=50 src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+</p>
 
 <p align='center'>
     <a href="https://twitter.com/horluphemo/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
