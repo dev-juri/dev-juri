@@ -3,7 +3,7 @@
 <p align='center'>I'm a budding and enthusiastic Software developer focused on Mobile Development.</p>
 
 <p align='center'>
-**I develop with :**
+<h3 align='center'>I develop with :</h3>
 <code><img height=50 src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"/></code>
 <code><img height=50 src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
