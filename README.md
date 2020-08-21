@@ -9,11 +9,7 @@ I'm a budding and enthusiastic Software developer focused on Mobile Development.
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
 <p align='center'>
-**Connect with me via any of**
-<br>
-<a href="https://twitter.com/horluphemo/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/mwlite/in/oluwafemi-ojuri-b3a427198"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
-
-<a href="mailto:ojurifemi132@gmail.com"><img src="https://img.shields.io/badge/send a mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
+    <a href="https://twitter.com/horluphemo/"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/mwlite/in/oluwafemi-ojuri-b3a427198"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+    <a href="mailto:ojurifemi132@gmail.com"><img src="https://img.shields.io/badge/send a mail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;
 </p>
