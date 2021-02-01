@@ -2,7 +2,7 @@
 
 <p align='center'>I'm a budding and enthusiastic Software developer focused on Android Development.</p>
 
-<h3 align='center'>I develop with :</h3>
+<h3>Technologies</h3>
 
 <p align='center'>
 <img height=50 src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"/>
