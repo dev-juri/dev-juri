@@ -1,6 +1,6 @@
 <h1> Hello <img src="https://github.com/piyushP7pravin/piyushP7pravin/blob/master/Hi.gif" width="29px"> </h1>
 
-<p align='center'>I'm a budding and enthusiastic Android Developer.</p>
+<p>I'm a budding and enthusiastic Android Developer.</p>
 
 <h3>Technologies</h3>
 
